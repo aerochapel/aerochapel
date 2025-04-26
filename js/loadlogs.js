@@ -5,6 +5,7 @@ let currentIndex = 0;
 
 // Full list of all your essay filenames, in order newest-to-oldest
 const logFiles = [
+  'durian-cappuccino.html',
   'devourers.html',
   'the-diminishing-returns-of-creativity.html',
   'the-algorithm-isn’t-broken.html',
