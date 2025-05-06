@@ -5,6 +5,12 @@ let currentIndex = 0;
 
 // Full list of all your essay filenames, in order newest-to-oldest
 const logFiles = [
+  'cognitive-manipulation-chapter-1.html',
+  'cognitive-manipulation-chapter-2.html',
+  'cognitive-manipulation-chapter-3.html',
+  'cognitive-manipulation-chapter-4.html',
+  'when-the-foundation-breaks.html',
+  'riding-without-a-helmet.html',
   'ipope-266.html',
   'innovation-fatigue.html',
   'durian-cappuccino.html',
