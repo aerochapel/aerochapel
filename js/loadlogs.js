@@ -5,6 +5,7 @@ let currentIndex = 0;
 
 // Full list of all your essay filenames, in order newest-to-oldest
 const logFiles = [
+  'cognography-not-geography.html',
   'total-fragmentation.html',
   'cognitive-manipulation-chapter-1.html',
   'cognitive-manipulation-chapter-2.html',
