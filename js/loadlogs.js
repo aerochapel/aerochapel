@@ -5,6 +5,7 @@ let currentIndex = 0;
 
 // Full list of all your essay filenames, in order newest-to-oldest
 const logFiles = [
+  'existential-metric.html',
   'digital-climatization.html',
   'throwing-cakes-at-walls.html',
   'cognography-not-geography.html',
